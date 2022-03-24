@@ -99,7 +99,7 @@ First of All If you are using JDK version which is different from JDK 8 you may 
 <br />
 ###### You May also get an error like this  
 
-<img src="https://user-images.githubusercontent.com/88676535/160001467-b864e684-2b4c-40b4-830c-5e3a50122231.jpg" alt="No Driver Found Picture" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/88676535/160001467-b864e684-2b4c-40b4-830c-5e3a50122231.jpg" alt="No Driver Found Picture" width="60%" height="400" />
 
 
 This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project.
@@ -108,8 +108,7 @@ This error appears because of poorly configured mysql driver jar file or it may 
 
 ###### When Adding new user data Record, if you find an error like shown bellow. try no to use an image file that contains a space within the path to the picture you are adding.
 
-![photo_2022-03-24_01-07-32](https://user-images.githubusercontent.com/88676535/160016041-ffec9754-8323-4fa3-89b6-7788cccbb271.jpg)
-
+<img src="https://user-images.githubusercontent.com/88676535/160016041-ffec9754-8323-4fa3-89b6-7788cccbb271.jpg" alt="No Driver Found Picture" width="60%" height="400" />
 
 
 
