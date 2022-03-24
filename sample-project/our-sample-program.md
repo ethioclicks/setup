@@ -93,14 +93,17 @@ Creating Table
 
 #### Some of the Issues You May Face while using the sample project are listed as follows 
 
-First of All If you are using JDK version which is different from JDK 8 you may  face a problem that won't enable you to run this project under your version of JDK since the sample project was created on netbeans IDE by using the JDK 8  running this project on other version of jdk may show an error showing the project coundn't be able to run under your IDE so make sure to have a JDK 8 installed or find some other ways to fix the issues by searching for your specific JDK version . < br />
+First of All If you are using JDK version which is different from JDK 8 you may  face a problem that won't enable you to run this project under your version of JDK , since the sample project was created on netbeans IDE by using the JDK 8, running this project on other version of jdk may show an error, showing the project coundn't be run under your IDE. so make sure to have JDK 8 installed or find some other ways to fix the issues by searching for your specific JDK version . < br />
 
 
 <br />
-You May also get an error like this 
+###### You May also get an error like this  
+
 ![photo_2022-03-24_00-53-38](https://user-images.githubusercontent.com/88676535/160001467-b864e684-2b4c-40b4-830c-5e3a50122231.jpg)
 
 This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project.
+
+###### Still If You Can't be able to see any output at all, you may have copied this project into a folder that's read only and file write restricted such as the folder the windows operating system is installed that don't allow you to create file( the C:// drive on most computers)  to fix this copy this project source code into another partition 
 
 #### Successfully Running the project the Output of the sample program will look as follows
 
