@@ -9,7 +9,7 @@
 * MySQL Server v5.6 ( [Download MySQL Server](https://downloads.mysql.com/archives/installer/?version=5.6.26))
 * MySQL Workbench ( [Download MySQL Workbench](https://dev.mysql.com/downloads/workbench/))
 
-`note: Since This project is created by using java JDK 8 you may get a problem to run the project on another version of JDK therefore please install Java Development Kit 8 to run the sample project `
+`Note: Since This project is created by using java JDK 8 you may get a problem to run the project on another version of JDK therefore please install Java Development Kit 8 to run the sample project `
 
 If You Haven't Yet Configured Your IDE to Support JavaFX then goto the Link down bellow and Follow the Provided Step by Step Instruction's 
 
@@ -104,7 +104,7 @@ First of All If you are using JDK version which is different from JDK 8 you may 
 This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project.
 
 ###### Still If You Can't be able to see any output at all, you may have copied this project into a folder that's read only and file write restricted such as the folder the windows operating system is installed that don't allow you to create file( the C:// drive on most computers)  to fix this copy this project source code into another partition 
-
+###### Don't Use a picture which have space on their name 
 #### Successfully Running the project the Output of the sample program will look as follows
 
 
