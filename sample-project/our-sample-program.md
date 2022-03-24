@@ -1,9 +1,9 @@
-#### How To Add This Project into My Development Environment?
+## How To Add This Project into My Development Environment?
 
 
  This Project is a javafx GUI Application Created using the Netbeans v12.6 IDE to open and  successfully run the project inside your Development Environment make sure you have javafx  enabled IDE and You already have installed MySQL Program in Your Computer. 
 
-#### Before Starting to Use this sample project make sure you have the following applications Installed on Your Computer
+### Before Starting to Use this sample project make sure you have the following applications Installed on Your Computer
 
 * Netbeans v12.6 IDE( [Download Netbeans IDE]( https://netbeans.apache.org/download/nb13/nb13.html))
 * MySQL Server v5.6 ( [Download MySQL Server](https://downloads.mysql.com/archives/installer/?version=5.6.26))
@@ -33,14 +33,14 @@ this project is created by using Java Database Connector Library Version 5.1.45 
 
 [Java JDBC Tutorial](https://www.javatpoint.com/java-jdbc)
 
-### What is JDBC and How to Connect Java with Database Server
+## What is JDBC and How to Connect Java with Database Server
 
 JDBC stands for Java Database Connectivity. JDBC is a Java API to connect and execute the query with the database. <br />
 The Following blog will show you in Detail how you can enable JDBC support within your java project in Netbeans IDE 
 [Blog: Connect MySQL Database Server with Java Project in Netbeans IDE](https://www.tutorialsfield.com/how-to-connect-mysql-database-in-java-using-netbeans)
 
 
-### How To Successfully run The Project on Your Computer ?
+## How To Successfully run The Project on Your Computer ?
 
 #### step 1. open the project in netbeans IDE
 #### step 2. add the Database Connector Driver into your project([How to Add Database Driver](https://www.tutorialsfield.com/how-to-connect-mysql-database-in-java-using-netbeans))
@@ -91,7 +91,7 @@ Creating Table
 
 
 
-#### Some of the Issues You May Face while using the sample project are listed as follows 
+### Some of the Issues You May Face while using the sample project are listed as follows 
 
 First of All If you are using JDK version which is different from JDK 8 you may  face a problem that won't enable you to run this project under your version of JDK , since the sample project was created on netbeans IDE by using the JDK 8, running this project on other version of jdk may show an error, showing the project coundn't be run under your IDE. so make sure to have JDK 8 installed or find some other ways to fix the issues by searching for your specific JDK version . < br />
 
