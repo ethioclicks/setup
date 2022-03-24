@@ -102,11 +102,11 @@ First of All If you are using JDK version which is different from JDK 8 you may 
 <img src="https://user-images.githubusercontent.com/88676535/160001467-b864e684-2b4c-40b4-830c-5e3a50122231.jpg" alt="No Driver Found Picture" width="60%" height="400" />
 
 
-This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project.
+This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project. so make sure you have added the library corectlly and as much as possible try to use the library file we have provided here inside the `project/jdbc-folder` folder.
 
 ###### Still If You Can't be able to see any output at all, you may have copied this project into a folder that's read only and file write restricted such as the folder the windows operating system is installed that don't allow you to create file( the C:// drive on most computers)  to fix this copy this project source code into another partition 
 
-###### When Adding new user data Record, if you find an error like shown bellow. try no to use an image file that contains a space within the path to the picture you are adding.
+###### When Adding new user data Record, if you find an error like shown bellow. try no to use an image file that contains a space within the path to the picture you are adding. using an image path tha't don't include any space is appreciated.
 
 <img src="https://user-images.githubusercontent.com/88676535/160016041-ffec9754-8323-4fa3-89b6-7788cccbb271.jpg" alt="No Driver Found Picture" width="600" height="600" />
 
