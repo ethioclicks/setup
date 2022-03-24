@@ -44,6 +44,10 @@ The Following blog will show you in Detail how you can enable JDBC support withi
 
 #### step 1. open the project in netbeans IDE
 #### step 2. add the Database Connector Driver into your project([How to Add Database Driver](https://www.tutorialsfield.com/how-to-connect-mysql-database-in-java-using-netbeans))
+
+`If You Didn't correctly Add the Mysql Library You May Experience ' No Driver Found Error ' `
+
+
 #### step 3. start your MySQL Server 
 #### step 4: under your MySQL Workspace Create the Database named `ethioclicks_database` and inside that make a new table named `user_profile_data`
 
@@ -85,7 +89,21 @@ Creating Table
 
 `Our Project is Tested and Works Well on softwares with version number as provided above, but if you use other version's of those  listed softwares above you may experience some errors and the project may not run  and the code may not work for you properly. we kindly request you to use software version's as we have specified above`
 
+
+
+#### Some of the Issues You May Face while using the sample project are listed as follows 
+
+First of All If you are using JDK version which is different from JDK 8 you may  face a problem that won't enable you to run this project under your version of JDK since the sample project was created on netbeans IDE by using the JDK 8  running this project on other version of jdk may show an error showing the project coundn't be able to run under your IDE so make sure to have a JDK 8 installed or find some other ways to fix the issues by searching for your specific JDK version . < br />
+
+
+<br />
+You May also get an error like this 
+![photo_2022-03-24_00-53-38](https://user-images.githubusercontent.com/88676535/160001467-b864e684-2b4c-40b4-830c-5e3a50122231.jpg)
+
+This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project.
+
 #### Successfully Running the project the Output of the sample program will look as follows
+
 
 <br />
 
