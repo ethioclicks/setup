@@ -104,7 +104,14 @@ First of All If you are using JDK version which is different from JDK 8 you may 
 This error appears because of poorly configured mysql driver jar file or it may also appear if the version of MySQL connector jar file you have added to the project is not working on this project.
 
 ###### Still If You Can't be able to see any output at all, you may have copied this project into a folder that's read only and file write restricted such as the folder the windows operating system is installed that don't allow you to create file( the C:// drive on most computers)  to fix this copy this project source code into another partition 
-###### Don't Use a picture which have space on their name 
+
+###### When Adding new user data Record, if you find an error like shown bellow. try no to use an image file that contains a space within the path to the picture you are adding.
+
+![photo_2022-03-24_01-07-32](https://user-images.githubusercontent.com/88676535/160016041-ffec9754-8323-4fa3-89b6-7788cccbb271.jpg)
+
+
+
+
 #### Successfully Running the project the Output of the sample program will look as follows
 
 
