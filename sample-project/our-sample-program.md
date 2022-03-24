@@ -108,7 +108,7 @@ This error appears because of poorly configured mysql driver jar file or it may 
 
 ###### When Adding new user data Record, if you find an error like shown bellow. try no to use an image file that contains a space within the path to the picture you are adding.
 
-<img src="https://user-images.githubusercontent.com/88676535/160016041-ffec9754-8323-4fa3-89b6-7788cccbb271.jpg" alt="No Driver Found Picture" width="60%" height="400" />
+<img src="https://user-images.githubusercontent.com/88676535/160016041-ffec9754-8323-4fa3-89b6-7788cccbb271.jpg" alt="No Driver Found Picture" width="600" height="600" />
 
 
 
